@@ -4,6 +4,11 @@ Dokument s oficiálními požadavky se nachází [zde](https://prijimacky.cermat
 
 Níže se nacházejí hlavní témata které se vyžadují v čitelné formě vygenerované pomocí chatgpt [zde](https://chatgpt.com/share/93dc6011-426e-4414-9f08-350f5536f037)
 
+## Pravidla
+**Zákaz využívání kalkulačky nebo tabulek** u příjímaček tyto pomůcky nejsou dovoleny viz víše oficiální požadavky od CERMATU
+
+Všechny výpočty budou vypočítány na papír a následně odeslány na kotrolu a případnou konzultaci Discord nebo WhatsApp
+
 ## Základní požadavky pro zahájení doučování
 [zde](./Opakovani)
 
