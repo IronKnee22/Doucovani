@@ -1,3 +1,5 @@
+**Zákaz využítí kalkulačky**
+
 # Násobení
 
 14*83 = 
