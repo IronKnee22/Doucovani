@@ -4,6 +4,9 @@ Dokument s oficiálními požadavky se nachází [zde](https://prijimacky.cermat
 
 Níže se nacházejí hlavní témata které se vyžadují v čitelné formě vygenerované pomocí chatgpt [zde](https://chatgpt.com/share/93dc6011-426e-4414-9f08-350f5536f037)
 
+## Základní požadavky pro zahájení doučování
+[zde](./Opakovani)
+
 ## 1. Číslo a proměnná
 
 ### 1.1 Umocňování a odmocňování
