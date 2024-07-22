@@ -8,10 +8,6 @@
 78942 ÷ 321 = 
 
 # Procenta
-20% z 150 = 
-
-25% z 480 = 
-
 75% z 640 = 
 
 Jana si chce koupit nový telefon, který má běžnou cenu 12 000 Kč. V obchodě je na telefon momentálně sleva 20 %. Kolik Jana zaplatí za telefon po slevě?
