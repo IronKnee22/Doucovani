@@ -12,4 +12,4 @@
 
 Jana si chce koupit nový telefon, který má běžnou cenu 12 000 Kč. V obchodě je na telefon momentálně sleva 20 %. Kolik Jana zaplatí za telefon po slevě?
 
-Petr dostal zvýšení platu o 15 %. Jeho původní plat byl 35 000 Kč měsíčně. Pak mu ale byl jeho plat snížen o 14%. O kolik procent se Petrovy celkově zvýšil nebo snížil plat z původní částky?
+Petr dostal zvýšení platu o 15 %. Jeho původní plat byl 35 000 Kč měsíčně. Pak mu ale byl jeho plat snížen o 14%. Jaký bude Petrův výsledný plat?
