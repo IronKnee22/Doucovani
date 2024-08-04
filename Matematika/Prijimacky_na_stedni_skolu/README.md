@@ -17,7 +17,7 @@ Všechny výpočty budou vypočítány na papír a následně odeslány na kotro
 ### 1.1 Umocňování a odmocňování
 [Proklik](Studijni_materialy/Umocnovani_a_odmocnovani.md)
 ### 1.2 Procenta a finanční matematika
-[Proklik](Opakovani/Den_2_Deleni_procenta.md)
+[Procenta](Opakovani/Den_2_Deleni_procenta.md)
 ### 1.3 Výrazy s proměnými
 ### 1.4 Lineární rovnice
 [Proklik](Studijni_materialy/Linearni_rovnice.md)
