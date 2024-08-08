@@ -20,7 +20,7 @@ Součet dvou čísel A a B je roven jejich rozdílu zvětšenému o c.
 ![hodnota_vyrazu](imgs/hodnota_vyrazu.PNG)  
 ![hodnota_vyrazu](imgs/hodnota_vyrazu2.PNG)
 
-# Početní operace s mnohočleny (max. druhého stupně)
+# Početní operace s mnohočleny
 ![secteni_mnohoclenu](imgs/secteni_mnohoclenu.PNG)    
 ![odecteni_mnohoclenu](imgs/odecteni_mnohoclenu.PNG)       
 ![nasobeni_mnohoclenu](imgs/vynasobeni_mnohoclenu.PNG) 
