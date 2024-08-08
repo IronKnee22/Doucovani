@@ -19,6 +19,7 @@ Všechny výpočty budou vypočítány na papír a následně odeslány na kotro
 ### 1.2 Procenta a finanční matematika
 [Procenta](Opakovani/Den_2_Deleni_procenta.md)
 ### 1.3 Výrazy s proměnými
+[Proklik](Studijni_materialy/Vyrazy_s_promenymi.md)
 ### 1.4 Lineární rovnice
 [Proklik](Studijni_materialy/Linearni_rovnice.md)
 ### 1.5 Soustavy rovnic
