@@ -38,6 +38,7 @@ Všechny výpočty budou vypočítány na papír a následně odeslány na kotro
 ### 3.3 Kružnice a kruh
 [Proklik](Studijni_materialy/Kruh_kruznice.md)
 ### 3.4 Geometrické konstrukce
+[Proklik](Studijni_materialy/Geometricke_konstrukce_bez_postupu.md)
 ### 3.5 Shodnost a podobnost trojúhelníků
 ### 3.6 Prostorová geometrie
 
