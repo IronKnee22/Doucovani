@@ -40,6 +40,7 @@ Všechny výpočty budou vypočítány na papír a následně odeslány na kotro
 ### 3.4 Geometrické konstrukce
 [Proklik](Studijni_materialy/Geometricke_konstrukce_bez_postupu.md)
 ### 3.5 Shodnost a podobnost trojúhelníků
+[Proklik](Studijni_materialy/Shodnost_a_podobnost_trojuhelniku.md)
 ### 3.6 Prostorová geometrie
 
 ## 4. Nestandardní aplikační úlohy a problémy
